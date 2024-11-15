@@ -1,0 +1,1 @@
+print("bharath japathi entry code")
